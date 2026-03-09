@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDZ88oeTPeU=",
+  "success": true,
+  "projectFilePath": "/Users/shinthantaungstanley/student-panel-api/student-panel-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/shinthantaungstanley/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/shinthantaungstanley/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
